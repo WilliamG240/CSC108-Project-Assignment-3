@@ -1,3 +1,3 @@
-# Project-Assignment-Bike-Network
+# Bike Network Simulation
 
 ## Bike Stations Assignment
